@@ -13,6 +13,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Phuc101202&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Phuc101202)
 [![GitHub followers](https://img.shields.io/github/followers/Phuc101202?style=for-the-badge&color=6366F1&labelColor=1a1b27)](https://github.com/Phuc101202?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Phuc101202?style=for-the-badge&color=f1c232&labelColor=1a1b27)](https://github.com/Phuc101202)
+<br><br>
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-phuc101202.github.io/portfolio-8b5cf6?style=for-the-badge)](https://phuc101202.github.io/portfolio/)
 
 </div>
 
@@ -300,10 +302,7 @@ Collaborative team project (⭐ 3) showcasing teamwork, agile development, and f
 ### 💬 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Phuc101202-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Phuc101202)
-
----
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-phuc101202.github.io/portfolio-8b5cf6?style=for-the-badge)](https://phuc101202.github.io/portfolio/)
 
 ---
 
