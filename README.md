@@ -55,13 +55,6 @@ public class PhucLamMinh {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phuc101202&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc101202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Phuc101202&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366F1&ring=6366F1&fire=f97316&currStreakLabel=6366F1)](https://git.io/streak-stats)
 
 </div>
@@ -265,25 +258,7 @@ Collaborative team project (⭐ 3) showcasing teamwork, agile development, and f
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Phuc101202&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=6366F1&point=f97316)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Phuc101202&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
